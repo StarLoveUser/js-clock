@@ -10,7 +10,7 @@ gulp.task("sass", function() {
     suffix: ".min"
   }))
   .pipe(mincss())
-  .pipe(gulp.src("./css/"))
+  .pipe(gulp.dest("./css/"))
 });
 
 gulp.task("sass:watch", function() {
