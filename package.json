@@ -1,0 +1,26 @@
+{
+  "name": "js-clock",
+  "version": "1.0.0",
+  "description": "Clock of 12 hours with JS.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StarLoveUser/js-clock.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "StarLoveUser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StarLoveUser/js-clock/issues"
+  },
+  "homepage": "https://github.com/StarLoveUser/js-clock#readme",
+  "devDependencies": {
+    "gulp-clean-css": "^3.8.0",
+    "gulp-sass": "^3.1.0"
+  }
+}
