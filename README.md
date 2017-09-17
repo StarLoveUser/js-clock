@@ -1,2 +1,2 @@
 # JS Clock
-Clock of 12 hours with JS.
+Clock of 24 hours with JS.

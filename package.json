@@ -1,7 +1,7 @@
 {
   "name": "js-clock",
   "version": "1.0.0",
-  "description": "Clock of 12 hours with JS.",
+  "description": "Clock of 24 hours with JS.",
   "main": "gulpfile.js",
   "scripts": {
     "test": "gulp"
